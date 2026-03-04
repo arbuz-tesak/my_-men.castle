@@ -50,4 +50,6 @@
 ]
 
 
-[![See maket]](file:///C:/Users/Admin/Downloads/men.castle/castle.men/index.html)
+## Смотреть макет
+
+[![Нажми, чтобы открыть макет](images/maket.png)](https://arbuz-tesak.github.io/my_-men.castle/)
