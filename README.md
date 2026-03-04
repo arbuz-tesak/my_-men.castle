@@ -53,6 +53,7 @@
 
 ## Смотреть макет
 
+![Image Alt]()
 [![Нажми, чтобы открыть макет](images/maket.png)](https://mellifluous-torrone-5899d7.netlify.app/)
 
 
