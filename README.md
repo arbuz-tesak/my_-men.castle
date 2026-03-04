@@ -52,4 +52,4 @@
 
 ## Смотреть макет
 
-[![Нажми, чтобы открыть макет](images/maket.png)](https://arbuz-tesak.github.io/my_-men.castle/)
+[![Нажми, чтобы открыть макет](images/maket.png)](https://mellifluous-torrone-5899d7.netlify.app/)
