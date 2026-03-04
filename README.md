@@ -52,8 +52,8 @@
 
 
 ## Смотреть макет
-
-![Image Alt](https://github.com/arbuz-tesak/my_-men.castle/blob/main/666%20Image%202026-03-03%20at%2017.18.25.png?raw=true)
 [![Нажми, чтобы открыть макет](images/maket.png)](https://mellifluous-torrone-5899d7.netlify.app/)
+![Image Alt](https://github.com/arbuz-tesak/my_-men.castle/blob/main/666%20Image%202026-03-03%20at%2017.18.25.png?raw=true)
+
 
 
