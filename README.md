@@ -50,4 +50,4 @@
 ]
 
 
-[![See maket](phonk.imgs./pho)
+[![See maket](./phonk.imgs/phonk for maket.png)]()
